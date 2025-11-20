@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv)!=3:
-  print("usage: python student.py <name> <roll>")
+  print("usage: python student.py <name> <rollno>")
   sys.exit(1)
 
 
